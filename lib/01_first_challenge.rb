@@ -24,10 +24,9 @@ def first_challenge
       ]
     capulet: {}
   }
+  }
 end
- montague: {
-     
-   },
+ 
    capulet: {
      patriach: {
        name: "Lord Capulet",
