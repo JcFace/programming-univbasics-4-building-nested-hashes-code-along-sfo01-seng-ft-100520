@@ -20,7 +20,8 @@ def third_challenge
           attitude: "worried"
         }
         ]
-   }, 
+   }
+   },
    :capulet => {
       :patriarch => {
         #your key/value pairs here
