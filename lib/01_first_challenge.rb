@@ -4,7 +4,12 @@ def first_challenge
      patriach: {name: "Lord Montague", 
     age: "53"
    },
-   capulet: {}
+   capulet: {
+     patriach: {
+       name: "Lord Capulet",
+       age: "50"
+     }
+   }
    }
   }
 end
